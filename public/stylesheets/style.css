@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px Helvetica, Arial, sans-serif;
+}
+
+p {
+  color: palevioletred;
+}
+
+li {
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+h1, h3 {
+  padding-top: 30px;
+}
